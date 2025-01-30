@@ -1,3 +1,3 @@
-[x] #739
-[ ] 
-[ ]
+- George Washington
+* John Adams
++ Thomas Jefferson
